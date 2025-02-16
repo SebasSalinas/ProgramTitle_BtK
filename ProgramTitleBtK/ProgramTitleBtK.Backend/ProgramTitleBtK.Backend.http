@@ -1,0 +1,6 @@
+@ProgramTitleBtK.Backend_HostAddress = http://localhost:5098
+
+GET {{ProgramTitleBtK.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
